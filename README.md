@@ -58,7 +58,13 @@
   
 
 ### ⚙️개발환경 및 프레임워크
-<br>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/fe0c3bff-5ebb-4a12-aced-81d8c855ebc2" width="125">
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/ab3e09e7-2301-4437-a845-28ad3491bff2" width="90">
+<img src="https://img.shields.io/badge/naverLogin-6DB33F?style=for-the-badge&logo=naver&logoColor=white"> 
+<img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/d7ef5697-a421-40c8-9933-da7bedbd4481" width="60">
+
 
 ### 🖼️페이지 이미지
 
