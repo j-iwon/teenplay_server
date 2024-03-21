@@ -58,12 +58,35 @@
   
 
 ### ⚙️개발환경 및 프레임워크
+#### 📖API
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/fe0c3bff-5ebb-4a12-aced-81d8c855ebc2" width="125">
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 <img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/ab3e09e7-2301-4437-a845-28ad3491bff2" width="90">
 <img src="https://img.shields.io/badge/naverLogin-6DB33F?style=for-the-badge&logo=naver&logoColor=white"> 
 <img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/d7ef5697-a421-40c8-9933-da7bedbd4481" width="60">
+<img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/aeb1c8fc-f0b2-4574-8ef2-54cb779ee276" width="60">
+<img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/597952e6-c4f4-430b-9c40-7930f8262085" width="30">
+#### 📖CLOUD
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### 📖IDE
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=round-square&logo=Visual Studio Code&logoColor=white" width="180">
+#### 📖LIBRARY
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=round-square&logo=mysql&logoColor=white" width="90">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#### 📖SSH
+#### 📖VCS
+![Gitbash](https://img.shields.io/badge/gitbash-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
 
 
 ### 🖼️페이지 이미지
