@@ -29,8 +29,26 @@
     관심사를 공유하고 문화를 함께 즐기고 선두할 수 있도록 함으로써 원만한 대인관계를 만들고 더불어 문화강국으로서 첫 걸음을 만드는 것이 목표입니다.
     
 #### 🔗기능 설명
+- **모임**
+#####
+    활동을 통해 자신이 주체자가 되어 공동체를 직접 이끌어나갈 수 있으며, 틴플레이 영상을 통해 자신의 모임을 홍보할 수 있습니다.
+
+- **모임**
+#####
+    활동을 통해 자신이 주체자가 되어 공동체를 직접 이끌어나갈 수 있으며, 틴플레이 영상을 통해 자신의 모임을 홍보할 수 있습니다.
+
+- **모임**
+#####
+    활동을 통해 자신이 주체자가 되어 공동체를 직접 이끌어나갈 수 있으며, 틴플레이 영상을 통해 자신의 모임을 홍보할 수 있습니다.
+
+- **모임**
+#####
+    활동을 통해 자신이 주체자가 되어 공동체를 직접 이끌어나갈 수 있으며, 틴플레이 영상을 통해 자신의 모임을 홍보할 수 있습니다.
+
+
+#### 🔗기능 설명
 <table>
-    <tbody>
+    <tbody">
       <tr>
             <td>
               <b>모임</b>
@@ -54,7 +72,8 @@
             </td>
       </tr>
     </tbody>
-</table>
+</table>   
+
   
 
 ### ⚙️개발환경 및 프레임워크
@@ -67,11 +86,14 @@
 <img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/d7ef5697-a421-40c8-9933-da7bedbd4481" width="60">
 <img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/aeb1c8fc-f0b2-4574-8ef2-54cb779ee276" width="60">
 <img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/597952e6-c4f4-430b-9c40-7930f8262085" width="30">
+<br>
 #### 📖CLOUD
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br>
 #### 📖IDE
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=round-square&logo=Visual Studio Code&logoColor=white" width="180">
+<br>
 #### 📖LIBRARY
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -80,15 +102,20 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=round-square&logo=mysql&logoColor=white" width="90">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
 #### 📖SSH
+![Putty](https://img.shields.io/badge/putty-0D96F6?style=for-the-badge&logo=sahibinden&logoColor=white)
+<br>
 #### 📖VCS
 ![Gitbash](https://img.shields.io/badge/gitbash-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
-
+![Slack](https://img.shields.io/badge/Slack-C71D23?style=for-the-badge&logo=slack&logoColor=white)
+<img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=round-square&logo=Sourcetree&logoColor=white" width="125">
+<br>
+<br>
+<br>
+<br>
 ### 🖼️페이지 이미지
+
 
 
