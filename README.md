@@ -12,6 +12,18 @@
 |[송서경](https://github.com/songseogyeong)|[양 현](https://github.com/hyuncoding)|[서경덕](https://github.com/gyoungDeok-Seo)|[조관익](https://github.com/GwanIkCho)|[김규산](https://github.com/kimgusan)|[박지원](https://github.com/j-iwon)|
 <br>
 
+#### 🧷배포 url (하단의 로고를 클릭하세요)
+<table>
+    <tbody>
+      <tr>
+            <td><b>http://teenplay.shop/</b></td>
+      </tr>
+    </tbody>
+</table>
+
+<a href="http://teenplay.shop/"><img src="https://img.shields.io/badge/Teenplay-EE0000?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+
+
 ### ✍️기획 의도
 
 #### 🔗기획 배경
@@ -96,6 +108,33 @@
 <br>
 <br>
 ### 🖼️페이지 이미지
+
+<table style="text-align: center">
+  <tr>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+  </tr>
+  <tr>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
+  </tr>
+</table>
+<br>
+
+<table>
+    <tr></tr>
+    <tr>
+        <td style="padding:15px;">
+            <p></p>
+            <div><b>💡 인사이트</b></div>
+            <div style="width:100%; background-color:grey;">
+                    내용
+                <p></p>
+            </div>
+        </td>
+    </tr>
+</table>
+<br>
 
 
 
