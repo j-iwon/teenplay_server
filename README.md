@@ -13,6 +13,9 @@
 <br>
 
 #### 🧷배포 url (하단의 로고를 클릭하세요)
+
+<a href="http://teenplay.shop/"><img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/f9e554d3-2476-4ed7-8791-4a146e67cf07"/></a>
+
 <table>
     <tbody>
       <tr>
