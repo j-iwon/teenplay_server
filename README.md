@@ -114,12 +114,12 @@
 
 <table style="text-align: center">
   <tr>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
+      <td><img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/27a29e57-5616-4230-9068-069587a95ce7"/></td>
+      <td><img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/5f8193d6-268d-4b4c-b8eb-ca400c7b8d8a"/></td>
   </tr>
   <tr>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
+      <td><img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/27a29e57-5616-4230-9068-069587a95ce7"/></td>
+      <td><img src="https://github.com/team-teenplay/teenplay_server/assets/156397974/5f8193d6-268d-4b4c-b8eb-ca400c7b8d8a"/></td>
   </tr>
 </table>
 <br>
