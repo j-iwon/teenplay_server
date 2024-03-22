@@ -136,11 +136,11 @@ DATABASES = {
         # DATABASE 이름
         'NAME': 'teenplay',
         # 계정 이름
-        'USER': 'mysql',
+        'USER': 'project',
         # 계정 비밀번호
         'PASSWORD': '1234',
         # DBMS가 설치된 서버 PC의 IP, (127.0.0.1 = 로컬)
-        'HOST': '43.200.179.41',
+        'HOST': '3.34.127.23',
         # DBMS의 포트번호
         'PORT': '3306'
     }
