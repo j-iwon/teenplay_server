@@ -29,7 +29,6 @@ class RecommendedActivityAPIView(APIView):
                 serial_activity['is_like'] = False
                 serial_activity['like_count'] = ActivityLike.enabled_objects.filter(activity=activity).count()
                 serial_activity['member_count'] = ActivityMember.enabled_objects.filter(activity=activity).count()
-                print(serial_activity)
                 result_activities.append(serial_activity)
 
             data = {
