@@ -1,3 +1,5 @@
+/////// activity-web.js 입니다 ////////
+
 // 활동 표시 필터 및 페이지 초기화
 let page = 1;
 let date = "모든날";
@@ -177,7 +179,7 @@ const showList = (activityLists) => {
                     <div class="activity-window">
                         <div class="act-window-image">
                             <a class="act-image-block" href="/activity/detail?id=${activity.id}">
-                                <img class="act-image" src="/upload/${activity.thumbnail_path}" alt="" />
+                                <img class="act-image" src="${activity.thumbnail_path ? '/upload/' + activity.thumbnail_path : '/static/public/web/images/logo/logo8.png'}" alt="" />
                             </a>
                             <div class="like-button-box">
                                 <button class="like-btn-shadow" type="button">
